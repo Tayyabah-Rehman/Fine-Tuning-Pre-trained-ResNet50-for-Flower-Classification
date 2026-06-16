@@ -1,0 +1,2 @@
+# Fine-Tuning-Pre-trained-ResNet50-for-Flower-Classification
+This project demonstrates the application of transfer learning and fine-tuning techniques using a pre-trained ResNet50 convolutional neural network for custom image classification. The model is adapted to classify five different flower species, showcasing how pre-trained models can be efficiently customized for specific tasks with limited data.
